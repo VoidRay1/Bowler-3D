@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6f16382fd1949b40bc627c140fbea16, type: 3}
+  m_Name: Black Knobs Ball Data
+  m_EditorClassIdentifier: 
+  _name: Knob
+  _ball: {fileID: 6063811494653593467, guid: 7bf692e7d311ef14abfbc983b4f1bceb, type: 3}
+  _id: 9cfe1a23-2966-4d07-ad2f-458026e08264
+  IsUnlocked: 1

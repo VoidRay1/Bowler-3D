@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6e42c72c5f83848aba1e4958dbb172, type: 3}
+  m_Name: Sound Interactable Factory
+  m_EditorClassIdentifier: 
+  _metalGlassSound: {fileID: 8300000, guid: 4da35e41158d31c49bef5a151648e314, type: 3}
+  _glassGlassSound: {fileID: 8300000, guid: 227207a1242af734e9f3817892370493, type: 3}
+  _metalMetalSound: {fileID: 8300000, guid: 276cff1ea1b77a64787f5ab907f52b07, type: 3}
+  _metalWoodSound: {fileID: 8300000, guid: c83f943dd0fc8844ca5a94f2b155dbcc, type: 3}

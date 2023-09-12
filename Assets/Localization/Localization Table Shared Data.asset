@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization Table
+  m_TableCollectionNameGuidString: 16be1e58ed239e34ca07e77889ec7a3e
+  m_Entries:
+  - m_Id: 53153619968
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682894811136
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 616021559074816
+    m_Key: score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 617461102927872
+    m_Key: level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723338661191680
+    m_Key: ballsLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 727267243450368
+    m_Key: respawnBall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737347758186496
+    m_Key: showResults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974099592765440
+    m_Key: ballsEnded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 974819058507776
+    m_Key: currentScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 975764119085056
+    m_Key: maxScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980632099610624
+    m_Key: mainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981154563088384
+    m_Key: newGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982067147169792
+    m_Key: getNBalls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099938372247552
+    m_Key: volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7490502392205312
+    m_Key: mainMenuLoading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7977010058862592
+    m_Key: dataLoading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17019840294211584
+    m_Key: Tile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17033509077962752
+    m_Key: Simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17033645430591488
+    m_Key: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17033744114176000
+    m_Key: Metallic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372482090061824
+    m_Key: Knob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18380383051501568
+    m_Key: Metal
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1977190635428904984
+  references:
+    version: 2
+    RefIds:
+    - rid: 1977190635428904984
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1689791883810
